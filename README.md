@@ -1,41 +1,24 @@
-# Weather_webApp
+# ⛅ Weather Web App
 
-## I used open weather API to fetch data 
+A dynamic and responsive **Weather App** built using **HTML, CSS, and JavaScript**, leveraging the **OpenWeather API**. Developed as part of my **Web Development Internship at Prodigy Infotech**.
 
-### This  web project done in html,css ,js
+## 🔍 Project Overview
 
-#### Web link 
+This web application fetches and displays real-time weather data for any searched city. It features dynamic visuals, weather icons, and error handling for better user experience.
 
- https://sachinprajapati8604.github.io/Weather_webApp/
- 
- #### netlify link
- 
- https://spweather.netlify.app/
- 
-### Features of the project.
+## 🛠️ Tech Stack
 
-* It provide dynamic weather data like temp, min max temp etc.
-* Dynamic background images change according to weather status.
-* Dynamic weather icon change according to weather status.
-* It provide basic information like feels like temperature,humidity,pressure,wind speed.
-* It will not accept empty input.
-* it will give you  alert if city name not matched with api  data.
-* a good  ux/ui 
+- HTML5  
+- CSS3  
+- JavaScript  
+- OpenWeather API
 
+## 🎯 Features
 
-### Snapshot
-
-* Default 
-<img src="ss/demo1.png" width="100%">
-
-* when you entered any valid city
- <img src="ss/demo.png" width="100%">
-
-* when you did'nt entered anything 
- <img src="ss/empty.png" width="100%">
-
-* when entered city did'nt matched with data
- <img src="ss/bad.png" width="100%">
-
-
-
+- 🔄 Dynamic weather data: temperature, min/max temp, weather description  
+- 🌄 Background images change based on current weather conditions  
+- 🌤️ Weather icons update dynamically according to the status  
+- 🌡️ Shows “feels like” temperature, humidity, pressure, and wind speed  
+- ❌ Prevents empty input submissions  
+- ⚠️ Alerts user if city name is not recognized by the API  
+- ✨ Clean and user-friendly UI/UX
